@@ -1,5 +1,5 @@
 nav.top-bar {
-    height: 40px;
+    height: 45px;
     transition: height .33s ease;
 }
 .top-bar.expanded {
