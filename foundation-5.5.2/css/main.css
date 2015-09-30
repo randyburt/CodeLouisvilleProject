@@ -62,6 +62,7 @@ h2 {
 }
 
 
+
 wrapper {
     display: table;
     width: 100%;
@@ -91,14 +92,8 @@ wrapper {
   margin-right: auto }
 }
 
-.contact{
-  font-size: 1.5em;
-  background-color: ;
-  color: ;
-  font-family: de-walpergens-pica;
+.contactInfo {
   text-align: center;
-  font-style: italic;
-
 }
 
 
